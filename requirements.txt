@@ -1,15 +1,3 @@
-tqdm
-fire
-numpy
-scipy
-datasets
+Flask
 openai
-pytz
-matplotlib
-torch
-transformers
-google
-google-api-python-client
-google-generativeai
-ctranslate2
-vllm
+PyYAML
